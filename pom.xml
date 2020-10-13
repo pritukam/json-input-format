@@ -10,7 +10,7 @@
 
     <properties>
         <hadoop.version>2.7.5</hadoop.version>
-        <junit.version>4.7</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
